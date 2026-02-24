@@ -1,18 +1,28 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D2B,50:1A1AFF,100:00D4FF&height=200&section=header&text=Luis%20Pérez%20Contreras&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20PHP%20%7C%20Magento%202%20%7C%20Laravel&descSize=16&descAlignY=58&animation=fadeIn"/>
-</p>
 
-<p align="center">
+<div align="center">
+
+# Luis Pérez Contreras
+### Backend Developer · PHP · Magento 2 · Laravel
+<p>
   <a href="mailto:luisperezcontreras@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-1A1AFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-luisperezcontreras@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/luis-perez-contreras-56a67964">
+    <img src="https://img.shields.io/badge/LinkedIn-Luis%20Pérez%20Contreras-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/luisPerezCont">
+    <img src="https://img.shields.io/badge/X-luisPerezCont-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/PerezContrerasLuis">
-    <img src="https://img.shields.io/badge/GitHub-PerezContrerasLuis-00D4FF?style=for-the-badge&logo=github&logoColor=0D0D2B"/>
+    <img src="https://img.shields.io/badge/GitHub-PerezContrerasLuis-0A1172?style=for-the-badge&logo=github&logoColor=e0eaff"/>
   </a>
 </p>
+</div>
 
-<br/>
+---
 
 ## 🧑‍💻 Sobre mí
 
@@ -54,13 +64,13 @@ Me mueve la arquitectura limpia, el código mantenible y la mejora continua como
 ## 🚀 ¿Qué construyo?
 
 ```text
-🔹 Módulos personalizados en Magento 2     ████████████████████  Especialidad
-🔹 APIs REST robustas y escalables         ███████████████████░  Alta experiencia
-🔹 Arquitectura backend con Laravel        ██████████████████░░  Alta experiencia
-🔹 Integraciones con sistemas externos     █████████████████░░░  Sólida experiencia
-🔹 Automatización con CRON jobs            ████████████████░░░░  Sólida experiencia
-🔹 Optimización de bases de datos MySQL    ███████████████░░░░░  Sólida experiencia
-🔹 Proyectos con Node.js & Vue.js          ████████████░░░░░░░░  En evolución
+🔹 Módulos personalizados en Magento 2     🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜  
+🔹 APIs REST robustas y escalables         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  
+🔹 Arquitectura backend con Laravel        🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  
+🔹 Integraciones con sistemas externos     🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜  
+🔹 Automatización con CRON jobs            🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜  
+🔹 Optimización de bases de datos MySQL    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 
+🔹 Proyectos con Node.js & Vue.js          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜  En evolución
 ```
 
 ---
@@ -68,8 +78,12 @@ Me mueve la arquitectura limpia, el código mantenible y la mejora continua como
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PerezContrerasLuis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerezContrerasLuis&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PerezContrerasLuis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerezContrerasLuis&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PerezContrerasLuis&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -87,10 +101,7 @@ Me mueve la arquitectura limpia, el código mantenible y la mejora continua como
 
 ---
 
-<p align="center">
-  <i>"Backend sólido. Arquitectura limpia. Evolución constante."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:1A1AFF,100:0D0D2B&height=100&section=footer"/>
-</p>
+<div align="center">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&pause=1000&color=4A6FCC&center=true&vCenter=true&width=500&lines=Backend+sólido.+Arquitectura+limpia.;Evolución+constante." alt="Typing SVG" />
+</div>
