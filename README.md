@@ -30,6 +30,20 @@ Soy desarrollador **Backend con +10 años de experiencia** construyendo sistemas
 
 Me mueve la arquitectura limpia, el código mantenible y la mejora continua como mentalidad profesional.
 
+## 🚀 Repositorios
+
+Proyectos donde puedes conocer mi enfoque de desarrollo y documentación.
+
+[![Magento 2 eCommerce](https://img.shields.io/badge/Magento_2-EE672F?style=for-the-badge&logo=magento&logoColor=white)](https://github.com/PerezContrerasLuis/magento2-dev-guide)
+
+[![Laravel Punto de ventas POS](https://img.shields.io/badge/Punto_de_Ventas-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/PerezContrerasLuis/puntoDeVentas)
+
+[![PHP Design Patterns](https://img.shields.io/badge/Patrones_de_Diseño-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/PerezContrerasLuis/PatronesDeDisenioEnPHP)
+
+Gracias por revisarlos.
+
+
+
 | 🎓 Licenciado en Informática | 🛒 Especialista Magento 2 | ⚙️ Arquitectura Backend & APIs | 🚀 +10 años de experiencia |
 |:---:|:---:|:---:|:---:|
 
