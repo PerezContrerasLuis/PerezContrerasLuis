@@ -92,11 +92,6 @@ Gracias por revisarlos.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PerezContrerasLuis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerezContrerasLuis&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PerezContrerasLuis&theme=tokyonight"/>
 </p>
 
@@ -115,7 +110,4 @@ Gracias por revisarlos.
 
 ---
 
-<div align="center">
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&pause=1000&color=4A6FCC&center=true&vCenter=true&width=500&lines=Backend+sólido.+Arquitectura+limpia.;Evolución+constante." alt="Typing SVG" />
-</div>
+
