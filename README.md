@@ -71,8 +71,10 @@ Gracias por revisarlos.
 ### 🔧 DevTools & IA
 
 <p align="center">
-  [![](https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" />
+</p>
 
+<p align="center">
 ![Claude AI](https://img.shields.io/badge/Claude_AI-Anthropic-D97757?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white)
 </p>
 
