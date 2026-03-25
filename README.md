@@ -53,7 +53,7 @@ Gracias por revisarlos.
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,docker&theme=dark" />
 </p>
 
 ### 🛒 eCommerce
@@ -68,10 +68,11 @@ Gracias por revisarlos.
   <img src="https://skillicons.dev/icons?i=js,vue,jquery,html,css&theme=dark" />
 </p>
 
-### 🔧 DevTools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" />
-</p>
+### 🔧 DevTools & IA
+
+[![](https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark)](https://skillicons.dev)
+
+![Claude AI](https://img.shields.io/badge/Claude_AI-Anthropic-D97757?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white)
 
 ---
 
@@ -85,6 +86,8 @@ Gracias por revisarlos.
 🔹 Automatización con CRON jobs            🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜  
 🔹 Optimización de bases de datos MySQL    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 
 🔹 Proyectos con Node.js & Vue.js          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜  En evolución
+🔹 Asistente de desarrollo con IA (Claude)  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜  
+🔹 Contenedores con Docker                  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜  En evolución
 ```
 
 ---
