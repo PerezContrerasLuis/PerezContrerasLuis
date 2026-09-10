@@ -38,7 +38,7 @@ Proyectos donde puedes conocer mi enfoque de desarrollo y documentación.
 
 [![Laravel Punto de ventas POS](https://img.shields.io/badge/Punto_de_Ventas_POS-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/PerezContrerasLuis/puntoDeVentas)
 
-[![PHP Design Patterns](https://img.shields.io/badge/Patrones_de_Diseño-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/PerezContrerasLuis/PatronesDeDisenioEnPHP)
+[![PHP Design Patterns](https://img.shields.io/badge/Patrones_de_Diseño-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/PerezContrerasLuis/PatronesDeDisenio)
 
 Gracias por revisarlos.
 
